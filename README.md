@@ -20,7 +20,7 @@ each other known as bound states. We make use of the calculation power of the co
 known as the bisection algorithm to solve these states and the energies that hold them together.
 
 ## Report and Poster
-As part of my assessment I made both a report and a poster. You can view each of these by following the links below:
+As part of my assessment I made both a final report and a poster. You can view each of these by following the links below:
 
 [Report](https://github.com/M1lesBaker/Investigating_Mass_Spectra_of_the_Bc_Meson/blob/main/Investigating%20the%20Mass%20Spectra%20of%20the%20Bc%20Meson.pdf)
 
