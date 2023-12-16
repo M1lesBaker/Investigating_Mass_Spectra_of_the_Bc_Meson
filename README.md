@@ -19,5 +19,12 @@ of two types of quarks called the bottom and charm quarks. The strong force hold
 each other known as bound states. We make use of the calculation power of the computer and a special iteration technique
 known as the bisection algorithm to solve these states and the energies that hold them together.
 
+## Report and Poster
+As part of my assessment I made both a report and a poster. You can view each of these by following the links below:
+[Report](https://github.com/M1lesBaker/Investigating_Mass_Spectra_of_the_Bc_Meson/blob/main/Investigating%20the%20Mass%20Spectra%20of%20the%20Bc%20Meson.pdf)
+[Poster](https://github.com/M1lesBaker/Investigating_Mass_Spectra_of_the_Bc_Meson/blob/main/Summative%20Poster%20-%20Miles%20Baker.pdf)
+
+Note the report is significantly more advanced than the poster as it was produced as the final element. The poster was produced before the end of the project.
+
 ## Program Code
 You may notice that this GitHub repository doesn't currently contain any code. This is because I made the program on a Jupyter Notebook hosted by Durham University which I no longer have access to. I have requested access and in the near future the code will appear here so please check back later.
