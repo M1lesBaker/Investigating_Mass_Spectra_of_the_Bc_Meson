@@ -13,6 +13,7 @@ the scale of atoms this is not possible anymore and so we must use the theory of
 particles move and behave at the atomic scale. One of the particles at the atomic scale is the meson, it is made of two even
 smaller particles called quarks. The quarks are held together by an invisible force called the strong force which is similar
 to the electromagnetic force but is much stronger and acts only over an atomic distance.
+
 Using an equation called the Schrödinger equation, quantum mechanics describes the likelihood of where a particle may
 be found at any time. In this program we solve the Schrödinger equation for a meson called the BC meson, which is made
 of two types of quarks called the bottom and charm quarks. The strong force holds the quarks at certain separations from
