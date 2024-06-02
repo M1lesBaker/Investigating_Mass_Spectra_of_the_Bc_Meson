@@ -30,4 +30,4 @@ As part of my assessment I made both a final report and a poster. You can view e
 Note the report is significantly more advanced than the poster as it was produced as the final element. The poster was produced before the end of the project.
 
 ## Program Code
-You may notice that this GitHub repository doesn't currently contain any code. This is because I made the program on a Jupyter Notebook hosted by Durham University which I no longer have access to. I have requested access and in the near future the code will appear here so please check back later.
+Please see my program code under the folder Quarkonium.
